@@ -1,0 +1,9 @@
+DESTINATARIO				CONCEPTO								CANTIDAD
+------------				--------								--------
+Pedro					paga								-700.0	
+Paco					paga								-600.0	
+------						Nomina									+400.0	
+Enrique					paga								-200.0	
+ENriuqe					trabajo								-200.0	
+------						paga									+500.0	
+Pedro					retraso								-1.0	
